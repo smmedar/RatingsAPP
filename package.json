@@ -1,0 +1,17 @@
+{
+  "name": "datauri",
+  "version": "1.0.0",
+  "description": "get base64 encoded image data from weblink",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "global-tunnel-ng": "^2.7.1",
+    "image-data-uri": "^2.0.1",
+    "request": "^2.88.0"
+  }
+}
